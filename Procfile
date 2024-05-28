@@ -1,1 +1,1 @@
-worker : python Taagsbot.py
+worker : python bot.py
